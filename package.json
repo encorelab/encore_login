@@ -1,0 +1,25 @@
+{
+  "name": "encore_login",
+  "version": "1.0.0",
+  "description": "React login component for Encore projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houshuang/encore_login.git"
+  },
+  "keywords": [
+    "react",
+    "rethinkdb",
+    "horizon",
+    "encore"
+  ],
+  "author": "Stian Håklev (shaklev@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/houshuang/encore_login/issues"
+  },
+  "homepage": "https://github.com/houshuang/encore_login#readme"
+}
